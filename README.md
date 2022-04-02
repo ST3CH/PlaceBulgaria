@@ -34,4 +34,4 @@ if (window.top !== window.self) {
 ```
 
 6. После save: ctrl + s
-7. Накрая refresh reddit
+8. Накрая refresh reddit
