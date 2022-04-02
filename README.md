@@ -7,7 +7,7 @@
 
  ```javascript
 // ==UserScript==
-// @name         r/poland Pope drawing
+// @name         r/bulgaria art
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  try to take over the canvas!
