@@ -45,24 +45,3 @@ After refreshing reddit page you should see something like this:
 <img width="1114" alt="image" src="https://user-images.githubusercontent.com/44115112/161381088-0804c3b3-7664-4a9e-bf2f-ed3f5d7240b2.png">
 Smaller dots represent what color should be at this place. 
 Happy drawing ;)
-
-![unknown](https://user-images.githubusercontent.com/44115112/161381116-e1268f8e-0fe5-415d-8621-7f7ff0d010b0.png)
-
-## Update changelog - to update replace your script with the one above
-
-### Update 0.3
-Pierog has been added ;]
-
-![unknown (2)](https://user-images.githubusercontent.com/44115112/161382401-0603fb0b-68b7-43ec-80ad-bcba3ed27158.png)
-
-### Update 0.3.1
-
-Pope has been moved to right to accomodate flood of pierogies
-
-### Update 0.3.2
-
-Fixed some pope colors
-
-### Update 1.0
-
-Now your link doesn't have to change - so no more need to update script just refresh to get latest guide 
